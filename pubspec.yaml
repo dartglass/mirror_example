@@ -1,0 +1,9 @@
+name: mirror_example
+description: A sample web application
+dependencies:
+  browser: any
+  html5lib: any
+  google_mirror_v1_api:
+    git: https://github.com/dartglass/dart_mirror_v1_api_client.git
+  google_plus_v1_api:
+    git: https://github.com/dartglass/dart_plus_v1_api_client.git
