@@ -14,7 +14,7 @@ GoogleOAuth2 auth;
 
 final String timeLinehtml = """
 <article class="photo cover-only">  
-  <img src="http://www.glassfrogger.com/images/game-field.jpg" height="100%" width="100%">  
+  <img src="https://www.dartlang.org/imgs/dart-logo.png" height="100%" width="100%">  
   <div class="photo-overlay"></div>  
   <section>    
     <p class="text-auto-size">
